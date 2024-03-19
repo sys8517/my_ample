@@ -1,0 +1,12 @@
+.hori_box {
+  display: flex;
+  gap: 6px;
+  input {
+    margin-right: 10px;
+  }
+}
+
+.table {
+  padding: 15px;
+  box-sizing: border-box;
+}
